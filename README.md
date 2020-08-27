@@ -1,6 +1,11 @@
-### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=vs4vijay"></img>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vs4vijay"></img>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs4vijay&layout=compact"></img>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=vs4vijay"></img>
+
 
 <!--
 **vs4vijay/vs4vijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
