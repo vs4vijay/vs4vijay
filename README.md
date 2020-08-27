@@ -1,10 +1,10 @@
-### Vizay Soni
+### Vizay's Homepage
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vs4vijay"></img>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs4vijay&layout=compact"></img>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=vs4vijay"></img>
+<img align="right" src="https://komarev.com/ghpvc/?username=vs4vijay"></img>
 
 
 <!--
